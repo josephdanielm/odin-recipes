@@ -1,0 +1,28 @@
+* {
+    background-color: #EDE8E4;
+    font-family: Garamond, serif;
+}
+
+h1 {
+    font-size: 64px;
+    color: #006BBD;
+}
+
+h2 {
+    font-size: 40px;
+    color: #284177;
+}
+
+p {
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 20px;
+    color: #426AC0;
+}
+
+a {
+    font-size: 24px;
+    color: #98776B;
+}
